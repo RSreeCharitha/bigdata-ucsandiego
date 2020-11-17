@@ -1,5 +1,6 @@
 # Lesson 1 Review
 
+
 1. Which of these kinds of data motivated the Map/Reduce framework?
 - Large number of internet documents that need to be indexed for searching by words
 
